@@ -1,0 +1,19 @@
+/* Basic CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set default font and background for the page */
+body {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: #333333;
+  line-height: 1.6;
+}
+
+#carousel{
+
+  max-height: 700px;
+}
+
